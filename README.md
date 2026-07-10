@@ -1,2 +1,5 @@
 # Resumeforge
-Professional Resume Builder
+ResumeForge is a lightweight, client-side resume builder for anyone who wants a professional resume without wrestling with Word formatting or paying for a subscription tool. Everything happens in the browser — there's no backend, no account creation, and no data ever leaves your device.
+The app walks you through seven focused sections — Personal Info, Summary, Experience, Education, Skills, Languages, and Extras — each with repeatable entries so you can add as many jobs, degrees, or languages as you need. A live preview panel shows your resume exactly as it will look before you commit to anything, and a single click generates a downloadable, print-ready PDF using client-side rendering — no server round-trip, no watermark, no paywall.
+ResumeForge is built with plain HTML, CSS, and JavaScript — no frameworks, no build step, no dependencies to install. That makes it easy to read, easy to fork, and easy to deploy anywhere static files are served, including GitHub Pages. It's designed mobile-first, with a sticky header, bottom action bar on small screens, and accessible form controls throughout.
+Whether you're a developer who wants a resume tool that respects your data, or someone who just wants to build a resume without creating yet another account, ResumeForge gets you a finished PDF in minutes.
